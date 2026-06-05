@@ -644,7 +644,8 @@ git push origin feature/your-feature-name
 | [#407](https://github.com/shouri123/Late-Meet/issues/407) | \[Bug\] \`popup.ts\` throws uncaught error when opened outside a Google Meet tab | General |
 | [#406](https://github.com/shouri123/Late-Meet/issues/406) | \[Enhancement\] Add export to Markdown format for meeting transcripts | General |
 | [#404](https://github.com/shouri123/Late-Meet/issues/404) | \[Bug\] Meeting transcript continues recording after tab is navigated away from Google Meet | General |
-| [#401](https://github.com/shouri123/Late-Meet/issues/401) | \[FEATURE\] Strengthen \`asStoredSession()\` Runtime Validation | General |
+| [#395](https://github.com/shouri123/Late-Meet/issues/395) | \[Bug\] Speaker attribution breaks when participant names contain non-ASCII characters | General |
+| [#394](https://github.com/shouri123/Late-Meet/issues/394) | \[Enhancement\] Add meeting summary export to PDF format | General |
 
 
 #### 🔴 Advanced — `level-3`
